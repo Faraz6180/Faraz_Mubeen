@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://twitter.com/faraz mubeen" target="blank"><img src="https://img.shields.io/twitter/follow/faraz mubeen?logo=twitter&style=for-the-badge" alt="faraz mubeen" /></a> </p>
 
 - 🌱 Machine learning Engineer with the expertise in **Deep learning,Gen AI,RAG and Hugging face**
-
-- 👨‍💻To learn more,Visit here [https://linktr.ee/farazmubeenhaider](https://linktr.ee/farazmubeenhaider)
 - Enjoy Challenging myself in hackatons
+- 👨‍💻To learn more,Visit here [https://linktr.ee/farazmubeenhaider](https://linktr.ee/farazmubeenhaider)
+
 
 
 

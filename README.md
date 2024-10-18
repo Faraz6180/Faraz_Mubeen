@@ -15,7 +15,7 @@
 <ul>
   <li>🔥 <strong><a href="#">Heart-failure-outcome-prediction</a></strong>:This project uses machine learning to predict heart failure risk based on patient data (age, blood pressure, etc.). It employs models like Logistic Regression, Decision Trees, and Random Forests to classify outcomes, aiming to assist early diagnosis and improve patient care.</li>
   <li>🤖 <strong><a href="#">SMS spam Classifier</a></strong>:This project detect spam message and divide them in a spam category</li>
-  <li>🏆 <strong>Graidient Descent</strong>:To improve neural network training,I have visualize gradient descent and optimize neural networking prediction</li>
+  <li>🏆 <strong>Graidient Descent</strong>:To improve neural network training,I have visualize gradient descent and optimize neural network accuracy</li>
 </ul>
 
 <!-- Technical Skills -->

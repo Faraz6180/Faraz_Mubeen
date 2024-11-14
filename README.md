@@ -13,10 +13,12 @@
 <!-- Featured Projects -->
 <h3>🚀 Featured Projects</h3>
 <ul>
-  <li>🔥 <strong><a href="#">Heart-failure-outcome-prediction</a></strong>:This project uses machine learning to predict heart failure risk based on patient data (age, blood pressure, etc.). It employs models like Logistic Regression, Decision Trees, and Random Forests to classify outcomes, aiming to assist early diagnosis and improve patient care.</li>
-  <li>🤖 <strong><a href="#">SMS spam Classifier</a></strong>:This project detect spam message and divide them in a spam category</li>
-  <li>🏆 <strong>Graidient Descent</strong>:To improve neural network training,I have visualize gradient descent and optimize neural network accuracy</li>
+  <li>🔥 <strong><a href="https://github.com/Faraz6180/Hearth-failure-outcome-prediction">Heart-failure-outcome-prediction</a></strong>: This project uses machine learning to predict heart failure risk based on patient data (age, blood pressure, etc.). It employs models like Logistic Regression, Decision Trees, and Random Forests to classify outcomes, aiming to assist early diagnosis and improve patient care.</li>
+  <li>🤖 <strong><a href="https://github.com/Faraz6180/SMS-Spam_Classifier">SMS spam Classifier</a></strong>: This project detects spam messages and divides them into a spam category.</li>
+  <li>🤖 <strong><a href="https://github.com/Faraz6180/ANN-Classification-Churn">ANN Classification Churn</a></strong>: This project utilizes a neural network model to predict the probability of customer churn. A user-friendly interface built with Streamlit allows users to input customer data, view predictions, and analyze results with interactive graphs and visual insights.</li>
+  <li>🏆 <strong>Gradient Descent</strong>: To improve neural network training, I have visualized gradient descent and optimized neural network accuracy.</li>
 </ul>
+
 
 <!-- Technical Skills -->
 <h3>💻 Technical Skills</h3>

@@ -30,6 +30,13 @@
   <strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly<br>
 </p>
 
+<!-- Hackathon Participation & Certifications -->
+<h3>🏆 Hackathon Participation & Certifications</h3>
+<ul>
+  <li>🎓 <strong>Pak-Gen AI Hackaton</strong>: Developed youtube thumbnai generator for youtube creators(2024)</li>
+  <li>🏆 <strong>Replit fast and cursor hackaton</strong>: Developed all in one study tool to increase productivity for students.</li>
+</ul>
+
 <!-- Social Links -->
 <h3>🔗 Connect with me</h3>
 <p align="left">
@@ -41,12 +48,7 @@
   <a href="https://medium.com/@farazmubeen902" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white"></a>
 </p>
 
-<!-- Hackathon Participation & Certifications -->
-<h3>🏆 Hackathon Participation & Certifications</h3>
-<ul>
-  <li>🎓 <strong>Pak-Gen AI Hackaton</strong>: Developed youtube thumbnai generator for youtube creators(2024)</li>
-  <li>🏆 <strong>Replit fast and cursor hackaton</strong>: Developed all in one study tool to increase productivity for students.</li>
-</ul>
+
 
 <!-- GitHub Stats -->
 <h3>📊 GitHub Stats</h3>

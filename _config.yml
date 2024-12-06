@@ -1,9 +1,8 @@
-theme: "jekyll-theme-slate"  # Make sure the theme name is complete
-
-title: "My Website"
+theme: jekyll-theme-cayman
+title: My Website
 description: "Welcome to my personal website!"
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://faraz6180.github.io/Faraz_Mubeen"
 
 nav:
   - Resume: "/resume"

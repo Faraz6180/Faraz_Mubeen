@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=faraz6180&label=Profile%20views&color=0e75b6&style=flat" alt="faraz6180" />
-</p>
-
 <!-- Introduction -->
 <h2>👋 Hi, I'm Faraz Mubeen Haider</h2>
 <p>
@@ -24,7 +18,6 @@ title: Home
   <li>🤖 <strong><a href="https://github.com/Faraz6180/ANN-Classification-Churn">ANN Classification Churn</a></strong>: This project utilizes a neural network model to predict the probability of customer churn. A user-friendly interface built with Streamlit allows users to input customer data, view predictions, and analyze results with interactive graphs and visual insights.</li>
   <li>🏆 <strong>Gradient Descent</strong>: To improve neural network training, I have visualized gradient descent and optimized neural network accuracy.</li>
 </ul>
-
 
 <!-- Technical Skills -->
 <h3>💻 Technical Skills</h3>
@@ -53,8 +46,6 @@ title: Home
   <a href="https://leetcode.com/u/farazmubeen902/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-lightgrey?style=flat-square&logo=leetcode&logoColor=white"></a>
   <a href="https://medium.com/@farazmubeen902" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white"></a>
 </p>
-
-
 
 <!-- GitHub Stats -->
 <h3>📊 GitHub Stats</h3>

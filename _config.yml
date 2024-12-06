@@ -1,1 +1,12 @@
 theme:jekyll-theme-
+
+title: My Website
+description: "Welcome to my personal website!"
+baseurl: ""
+url: "https://yourusername.github.io"
+nav:
+  - Resume: "/resume"
+  - Projects: "/projects"
+  - Medium: "/medium"
+  - LinkedIn: "/linkedin"
+  - About: "/about"

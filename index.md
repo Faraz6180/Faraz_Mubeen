@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+---
+
+
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faraz6180&label=Profile%20views&color=0e75b6&style=flat" alt="faraz6180" />

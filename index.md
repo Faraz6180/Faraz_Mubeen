@@ -1,11 +1,11 @@
 
 
-<h2>👋 Hi, I'm Faraz Mubeen Haider</h2>
+<h1>👋 Hi, I'm Faraz Mubeen Haider</h1>
 
-<p>
+<h3>
   🌱 I’m a passionate <strong>Machine Learning Engineer</strong> specializing in <strong>Deep Learning, Generative AI, Retrieval Augmented Generation (RAG)</strong>, and the Hugging Face ecosystem. I love creating solutions that push the boundaries of AI and automation, and I'm constantly evolving my skills by tackling challenging projects and hackathons.
-</p>
-<p>💡 I thrive in environments where innovation and solving complex problems are key. My goal is to leverage AI to improve efficiency in industries like healthcare, automation, and more.</p>
+</h3>
+
 
 <!-- Featured Projects -->
 <h3>🚀 Featured Projects</h3>
@@ -18,13 +18,13 @@
 
 <!-- Technical Skills -->
 <h3>💻 Technical Skills</h3>
-<p>
+<h4>
   <strong>Languages:</strong> Python, Java, SQL<br>
   <strong>Libraries & Frameworks:</strong> TensorFlow, PyTorch, scikit-learn, Hugging Face<br>
   <strong>AI/ML:</strong> Deep Learning, NLP, RAG, Transformers, Generative Models<br>
   <strong>Tools:</strong> Git, Docker, Kubernetes, Jupyter Notebooks<br>
   <strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly<br>
-</p>
+</h4>
 
 <!-- Hackathon Participation & Certifications -->
 <h3>🏆 Hackathon Participation & Certifications</h3>

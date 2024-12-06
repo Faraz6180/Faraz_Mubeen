@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+
 
 <h2>👋 Hi, I'm Faraz Mubeen Haider</h2>
 

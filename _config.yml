@@ -1,8 +1,5 @@
-theme: "jekyll-theme-slate"  # Make sure the theme name is complete
 
-title: "My Website"
-description: "Welcome to my personal website!"
-baseurl: ""
+
 url: "https://faraz6180.github.io/Faraz_Mubeen/"
 
 

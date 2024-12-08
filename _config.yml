@@ -1,10 +1,8 @@
-
-baseurl: ""
+title: Faraz Mubeen Haider
+description: Portfolio and Projects of Faraz Mubeen
+theme: minima
+baseurl: "/Faraz_Mubeen" # This should match your repository name
 url: "https://faraz6180.github.io"
-
-nav:
-  - Resume: "/resume"
-  - Projects: "/projects"
-  - Medium: "/medium"
-  - LinkedIn: "/linkedin"
-  - About: "/about"
+markdown: kramdown
+plugins:
+  - jekyll-feed

@@ -1,8 +1,10 @@
-title: Faraz Mubeen Haider
-description: Portfolio and Projects of Faraz Mubeen
-theme: minima
-baseurl: "/Faraz_Mubeen"  # Your repository name
+
+baseurl: ""
 url: "https://faraz6180.github.io"
-markdown: kramdown
-plugins:
-  - jekyll-feed
+
+nav:
+  - Resume: "/resume"
+  - Projects: "/projects"
+  - Medium: "/medium"
+  - LinkedIn: "/linkedin"
+  - About: "/about"

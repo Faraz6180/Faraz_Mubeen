@@ -61,7 +61,10 @@
     }
 
     .social-links img {
+      width: 24px;
+      height: 24px;
       margin-right: 10px;
+      vertical-align: middle;
     }
 
     .github-stats {
@@ -86,18 +89,16 @@
   </header>
 
   <section>
-    <!-- Featured Projects -->
     <h1>🚀 Featured Projects</h1>
     <ul>
-      <li>🔥 <strong><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction">Heart Failure Outcome Prediction</a></strong>: Predicts heart failure risk using Logistic Regression, Decision Trees, and Random Forests to aid early diagnosis and improve patient care.</li>
-      <li>🤖 <strong><a href="https://github.com/Faraz6180/SMS-Spam_Classifier">SMS Spam Classifier</a></strong>: Classifies SMS messages as spam or not using advanced text classification models.</li>
-      <li>🤖 <strong><a href="https://github.com/Faraz6180/ANN-Classification-Churn">ANN Classification Churn</a></strong>: Predicts customer churn probability using neural networks and offers an interactive analysis tool built with Streamlit.</li>
+      <li>🔥 <strong><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction" target="_blank">Heart Failure Outcome Prediction</a></strong>: Predicts heart failure risk using Logistic Regression, Decision Trees, and Random Forests to aid early diagnosis and improve patient care.</li>
+      <li>🤖 <strong><a href="https://github.com/Faraz6180/SMS-Spam_Classifier" target="_blank">SMS Spam Classifier</a></strong>: Classifies SMS messages as spam or not using advanced text classification models.</li>
+      <li>🤖 <strong><a href="https://github.com/Faraz6180/ANN-Classification-Churn" target="_blank">ANN Classification Churn</a></strong>: Predicts customer churn probability using neural networks and offers an interactive analysis tool built with Streamlit.</li>
       <li>🏆 <strong>Gradient Descent Visualization</strong>: Visualizes gradient descent processes to improve neural network accuracy understanding.</li>
     </ul>
   </section>
 
   <section>
-    <!-- Technical Skills -->
     <h1>💻 Technical Skills</h1>
     <p>
       <strong>Languages:</strong> Python, Java, SQL<br>
@@ -109,7 +110,6 @@
   </section>
 
   <section>
-    <!-- Hackathon Participation & Certifications -->
     <h1>🏆 Hackathon Participation & Certifications</h1>
     <ul>
       <li>🎓 <strong>Pak-Gen AI Hackathon (2024)</strong>: Developed a YouTube thumbnail generator for creators.</li>
@@ -118,20 +118,18 @@
   </section>
 
   <section>
-    <!-- Social Links -->
     <h1>🔗 Connect with Me</h1>
     <p class="social-links">
-      <a href="https://www.linkedin.com/in/faraz-mubeen-software-engineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="https://github.com/Faraz6180" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-      <a href="https://www.kaggle.com/faraz618" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-      <a href="https://www.youtube.com/FARAZHere" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-      <a href="https://leetcode.com/u/farazmubeen902/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-lightgrey?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-      <a href="https://medium.com/@farazmubeen902" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+      <a href="https://www.linkedin.com/in/faraz-mubeen-software-engineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> LinkedIn</a>
+      <a href="https://github.com/Faraz6180" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"> GitHub</a>
+      <a href="https://www.kaggle.com/faraz618" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"> Kaggle</a>
+      <a href="https://www.youtube.com/FARAZHere" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"> YouTube</a>
+      <a href="https://leetcode.com/u/farazmubeen902/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-lightgrey?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"> LeetCode</a>
+      <a href="https://medium.com/@farazmubeen902" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" alt="Medium"> Medium</a>
     </p>
   </section>
 
   <section class="github-stats">
-    <!-- GitHub Stats -->
     <h1>📊 GitHub Stats</h1>
     <p>
       <img src="https://github-readme-stats.vercel.app/api?username=faraz6180&show_icons=true&theme=radical" alt="GitHub Stats">

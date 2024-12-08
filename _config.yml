@@ -1,1 +1,9 @@
+title: Faraz Mubeen Haider
+description: Portfolio and Projects of Faraz Mubeen
+theme: minima
+baseurl: ""
+url: "https://faraz6180.github.io/Faraz_Mubeen/o"
+markdown: kramdown
+plugins:
+  - jekyll-feed
 

@@ -2,13 +2,13 @@
 
 <h1>👋 Hi, I'm Faraz Mubeen Haider</h1>
 
-<h3>
+<h2>
   🌱 I’m a passionate <strong>Machine Learning Engineer</strong> specializing in <strong>Deep Learning, Generative AI, Retrieval Augmented Generation (RAG)</strong>, and the Hugging Face ecosystem. I love creating solutions that push the boundaries of AI and automation, and I'm constantly evolving my skills by tackling challenging projects and hackathons.
-</h3>
+</h2>
 
 
 <!-- Featured Projects -->
-<h3>🚀 Featured Projects</h3>
+<h1>🚀 Featured Projects</h1>
 <ul>
   <li>🔥 <strong><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction">Heart-failure-outcome-prediction</a></strong>: This project uses machine learning to predict heart failure risk based on patient data (age, blood pressure, etc.). It employs models like Logistic Regression, Decision Trees, and Random Forests to classify outcomes, aiming to assist early diagnosis and improve patient care.</li>
   <li>🤖 <strong><a href="https://github.com/Faraz6180/SMS-Spam_Classifier">SMS Spam Classifier</a></strong>: This project detects spam messages and divides them into a spam category using text classification models.</li>
@@ -18,16 +18,16 @@
 
 <!-- Technical Skills -->
 <h3>💻 Technical Skills</h3>
-<h4>
+<h2>
   <strong>Languages:</strong> Python, Java, SQL<br>
   <strong>Libraries & Frameworks:</strong> TensorFlow, PyTorch, scikit-learn, Hugging Face<br>
   <strong>AI/ML:</strong> Deep Learning, NLP, RAG, Transformers, Generative Models<br>
   <strong>Tools:</strong> Git, Docker, Kubernetes, Jupyter Notebooks<br>
   <strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly<br>
-</h4>
+</h2>
 
 <!-- Hackathon Participation & Certifications -->
-<h3>🏆 Hackathon Participation & Certifications</h3>
+<h1>🏆 Hackathon Participation & Certifications</h1>
 <ul>
   <li>🎓 <strong>Pak-Gen AI Hackathon (2024)</strong>: Developed a YouTube thumbnail generator for YouTube creators.</li>
   <li>🏆 <strong>Replit Fast and Cursor Hackathon</strong>: Developed an all-in-one study tool to increase productivity for students.</li>

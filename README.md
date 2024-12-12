@@ -36,10 +36,12 @@
       max-width: 800px;
       margin: 0 auto;
       line-height: 1.5;
+      color: white; /* Explicitly set text color to white */
     }
 
     .header-container h2 strong {
-      color: #f0f0f0;
+      color: #ffffff; /* Bright white for emphasis */
+      font-weight: bold;
     }
 
     section {
@@ -142,3 +144,5 @@
   </footer>
 </body>
 </html>
+
+Version 4 of 4

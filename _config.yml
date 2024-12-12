@@ -1,6 +1,0 @@
-title: "Faraz Mubeen Portfolio"
-theme: minima
-baseurl: "" # Leave this blank unless your site is in a subfolder
-url: "https://faraz6180.github.io"
-plugins:
-  - jekyll-feed

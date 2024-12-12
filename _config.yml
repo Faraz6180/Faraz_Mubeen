@@ -1,8 +1,6 @@
-title: Faraz Mubeen Haider
-description: Portfolio and Projects of Faraz Mubeen
+title: "Faraz Mubeen Portfolio"
 theme: minima
-baseurl: "/Faraz_Mubeen" # This should match your repository name
+baseurl: "" # Leave this blank unless your site is in a subfolder
 url: "https://faraz6180.github.io"
-markdown: kramdown
 plugins:
   - jekyll-feed

@@ -1,31 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Faraz Mubeen Haider</title>
   <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      margin: 0;
-      padding: 0;
       background-color: #f4f4f9;
       color: #333;
     }
 
-    header {
-      text-align: center;
-      background: #007acc;
+    .header-container {
+      background-color: #007acc;
       color: white;
-      padding: 20px 0;
+      text-align: center;
+      padding: 40px 20px;
     }
 
-    header h1 {
+    .header-container h1 {
       font-size: 2.5em;
+      margin-bottom: 15px;
+      color: white;
     }
 
-    header h2 {
+    .header-container h2 {
       font-size: 1.2em;
-      margin-top: 10px;
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.5;
+    }
+
+    .header-container h2 strong {
+      color: #f0f0f0;
     }
 
     section {
@@ -65,10 +79,6 @@
       vertical-align: middle;
     }
 
-    .github-stats {
-      text-align: center;
-    }
-
     footer {
       text-align: center;
       padding: 10px;
@@ -79,12 +89,12 @@
   </style>
 </head>
 <body>
-  <header>
+  <div class="header-container">
     <h1>👋 Hi, I'm Faraz Mubeen Haider</h1>
     <h2>
       🌱 A passionate <strong>Machine Learning Engineer</strong> specializing in <strong>Deep Learning, Generative AI, Retrieval Augmented Generation (RAG)</strong>, and the Hugging Face ecosystem. Constantly evolving through challenging projects and hackathons.
     </h2>
-  </header>
+  </div>
 
   <section>
     <h1>🚀 Featured Projects</h1>
@@ -124,13 +134,6 @@
       <a href="https://www.youtube.com/FARAZHere" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"> YouTube</a>
       <a href="https://leetcode.com/u/farazmubeen902/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-lightgrey?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"> LeetCode</a>
       <a href="https://medium.com/@farazmubeen902" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" alt="Medium"> Medium</a>
-    </p>
-  </section>
-
-  <section class="github-stats">
-    <h1>📊 GitHub Stats</h1>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=faraz6180&show_icons=true&theme=radical" alt="GitHub Stats">
     </p>
   </section>
 

@@ -1,148 +1,157 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Faraz Mubeen Haider</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faraz Mubeen Haider</title>
+    <style>
+        /* Reset and Box Model */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f9;
-      color: #333;
-    }
+        /* Body Styles */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+        }
 
-    .header-container {
-      background-color: #007acc;
-      color: white;
-      text-align: center;
-      padding: 40px 20px;
-    }
+        /* Header Styles */
+        .header-container {
+            background-color: #007acc;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
 
-    .header-container h1 {
-      font-size: 2.5em;
-      margin-bottom: 15px;
-      color: white;
-    }
+        .header-container h1 {
+            font-size: 2.5em;
+            margin-bottom: 15px;
+        }
 
-    .header-container h2 {
-      font-size: 1.2em;
-      max-width: 800px;
-      margin: 0 auto;
-      line-height: 1.5;
-      color: white; /* Explicitly set text color to white */
-    }
+        .header-container h2 {
+            font-size: 1.2em;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.5;
+        }
 
-    .header-container h2 strong {
-      color: #ffffff; /* Bright white for emphasis */
-      font-weight: bold;
-    }
+        .header-container h2 strong {
+            color: #ffffff; /* Bright white for emphasis */
+            font-weight: bold;
+        }
 
-    section {
-      max-width: 900px;
-      margin: 20px auto;
-      background: #fff;
-      padding: 20px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
+        /* Section Styles */
+        section {
+            max-width: 900px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
 
-    h1, h2, h3 {
-      color: #007acc;
-    }
+        h1, h2, h3 {
+            color: #007acc; /* Consistent heading color */
+        }
 
-    ul {
-      list-style: none;
-      padding: 0;
-    }
+        /* List Styles */
+        ul {
+            list-style-type: none; /* Remove bullet points */
+            padding: 0;
+        }
 
-    ul li {
-      margin: 10px 0;
-    }
+        ul li {
+            margin: 10px 0; /* Space between list items */
+        }
 
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
+        /* Link Styles */
+        a {
+            color: #007acc; /* Link color */
+            text-decoration: none; /* Remove underline */
+        }
 
-    a:hover {
-      text-decoration: underline;
-    }
+        a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
 
-    .social-links img {
-      width: 24px;
-      height: 24px;
-      margin-right: 10px;
-      vertical-align: middle;
-    }
+        /* Social Links Image Styles */
+        .social-links img {
+            width: 24px; /* Icon size */
+            height: 24px; 
+            margin-right: 10px; 
+            vertical-align: middle; 
+        }
 
-    footer {
-      text-align: center;
-      padding: 10px;
-      background: #007acc;
-      color: white;
-      margin-top: 20px;
-    }
-  </style>
+        /* Footer Styles */
+        footer {
+            text-align: center; 
+            padding: 10px; 
+            background: #007acc; 
+            color: white; 
+            margin-top: 20px; 
+        }
+
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            .header-container h1 {
+                font-size: 2em; /* Smaller heading on mobile */
+            }
+            
+            .header-container h2 {
+                font-size: 1em; /* Smaller subheading on mobile */
+                padding-left: 10px; 
+                padding-right: 10px; 
+                line-height: 1.4; 
+            }
+            
+            section {
+                padding: 15px; /* Reduce padding on mobile */
+                margin-top: 10px; 
+                box-shadow: none; /* Remove shadow for mobile view */
+                border-radius: 5px; /* Rounded corners for mobile view */
+                background-color: #ffffff; 
+                overflow-x:auto; /* Prevent overflow on small screens */ 
+             }
+             
+             footer {
+                 font-size:.8em ;/* Smaller footer text on mobile */ 
+             }
+         }
+    </style>
 </head>
 <body>
-  <div class="header-container">
-    <h1>👋 Hi, I'm Faraz Mubeen Haider</h1>
-    <h2>
-      🌱 A passionate <strong>Machine Learning Engineer</strong> specializing in <strong>Deep Learning, Generative AI, Retrieval Augmented Generation (RAG)</strong>, and the Hugging Face ecosystem. Constantly evolving through challenging projects and hackathons.
-    </h2>
-  </div>
 
-  <section>
-    <h1>🚀 Featured Projects</h1>
-    <ul>
-      <li>🔥 <strong><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction" target="_blank">Heart Failure Outcome Prediction</a></strong>: Predicts heart failure risk using Logistic Regression, Decision Trees, and Random Forests to aid early diagnosis and improve patient care.</li>
-      <li>🤖 <strong><a href="https://github.com/Faraz6180/SMS-Spam_Classifier" target="_blank">SMS Spam Classifier</a></strong>: Classifies SMS messages as spam or not using advanced text classification models.</li>
-      <li>🤖 <strong><a href="https://github.com/Faraz6180/ANN-Classification-Churn" target="_blank">ANN Classification Churn</a></strong>: Predicts customer churn probability using neural networks and offers an interactive analysis tool built with Streamlit.</li>
-      <li>🏆 <strong>Gradient Descent Visualization</strong>: Visualizes gradient descent processes to improve neural network accuracy understanding.</li>
-    </ul>
-  </section>
+    <div class="header-container">
+        <h1>Faraz Mubeen Haider</h1>
+        <h2>Welcome to my portfolio! I am a passionate developer and data enthusiast.</h2>
+    </div>
 
-  <section>
-    <h1>💻 Technical Skills</h1>
-    <p>
-      <strong>Languages:</strong> Python, Java, SQL<br>
-      <strong>Libraries & Frameworks:</strong> TensorFlow, PyTorch, scikit-learn, Hugging Face<br>
-      <strong>AI/ML:</strong> Deep Learning, NLP, RAG, Transformers, Generative Models<br>
-      <strong>Tools:</strong> Git, Docker, Kubernetes, Jupyter Notebooks<br>
-      <strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly
-    </p>
-  </section>
+    <section id="about">
+        <h3>About Me</h3>
+        <p>Brief introduction about yourself and your skills.</p>
+    </section>
 
-  <section>
-    <h1>🏆 Hackathon Participation & Certifications</h1>
-    <ul>
-      <li>🎓 <strong>Pak-Gen AI Hackathon (2024)</strong>: Developed a YouTube thumbnail generator for creators.</li>
-      <li>🏆 <strong>Replit Fast and Cursor Hackathon</strong>: Created an all-in-one study tool to boost student productivity.</li>
-    </ul>
-  </section>
+    <section id="portfolio">
+        <h3>My Work</h3>
+        <ul>
+            <li><a href="#">Project One</a> - Description of project one.</li>
+            <li><a href="#">Project Two</a> - Description of project two.</li>
+            <li><a href="#">Project Three</a> - Description of project three.</li>
+        </ul>
+    </section>
 
-  <section>
-    <h1>🔗 Connect with Me</h1>
-    <p class="social-links">
-      <a href="https://www.linkedin.com/in/faraz-mubeen-software-engineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> LinkedIn</a>
-      <a href="https://github.com/Faraz6180" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub"> GitHub</a>
-      <a href="https://www.kaggle.com/faraz618" target="_blank"><img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"> Kaggle</a>
-      <a href="https://www.youtube.com/FARAZHere" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"> YouTube</a>
-      <a href="https://leetcode.com/u/farazmubeen902/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-lightgrey?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"> LeetCode</a>
-      <a href="https://medium.com/@farazmubeen902" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=white" alt="Medium"> Medium</a>
-    </p>
-  </section>
+    <footer>
+        <p>&copy; 2024 Faraz Mubeen Haider | Follow me on:</p>
+        <div class="social-links">
+           <!-- Add your social media icons here -->
+           <a href="#"><img src="path/to/icon.png" alt="Social Media Icon"></a>
+           <!-- Repeat for other icons -->
+       </div>
+    </footer>
 
-  <footer>
-    <p>© 2024 Faraz Mubeen Haider. All rights reserved.</p>
-  </footer>
 </body>
 </html>
-
-Version 4 of 4

@@ -1,5 +1,3 @@
-<title>Faraz Mubeen Haider</title> <style> /* Reset and Box Model */ * { margin: 0; padding: 0; box-sizing: border-box; }
-
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
@@ -77,4 +75,3 @@ footer {
   color: white;
   margin-top: 20px;
 }
-</style>

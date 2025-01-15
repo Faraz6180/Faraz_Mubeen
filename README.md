@@ -134,11 +134,24 @@
       <li>🔥 <strong><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction" target="_blank">Heart Failure Outcome Prediction</a></strong>: Predicts heart failure risk using Logistic Regression, Decision Trees, and Random Forests to aid early diagnosis and improve patient care.</li>
       <li>🤖 <strong><a href="https://github.com/Faraz6180/SMS-Spam_Classifier" target="_blank">SMS Spam Classifier</a></strong>: Classifies SMS messages as spam or not using advanced text classification models.</li>
       <li>🤖 <strong><a href="https://github.com/Faraz6180/ANN-Classification-Churn" target="_blank">ANN Classification Churn</a></strong>: Predicts customer churn probability using neural networks and offers an interactive analysis tool built with Streamlit.</li>
+      <li>🏆 <strong>Gradient Descent Visualization</strong>: Visualizes gradient descent processes to improve neural network accuracy understanding.</li>
     </ul>
   </section>
 
+  <section>
+    <h1>💻 Technical Skills</h1>
+    <p>
+      <strong>Languages:</strong> Python, Java, SQL<br>
+      <strong>Libraries & Frameworks:</strong> TensorFlow, PyTorch, scikit-learn, Hugging Face<br>
+      <strong>AI/ML:</strong> Deep Learning, NLP, RAG, Transformers, Generative Models<br>
+      <strong>Tools:</strong> Git, Docker, Streamlit<br>
+      <strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly<br>
+      <strong>Platforms:</strong> AWS, Azure
+    </p>
+  </section>
+
   <footer>
-    <p>&copy; 2024 Faraz Mubeen Haider. All Rights Reserved.</p>
+    &copy; 2024 Faraz Mubeen Haider. All Rights Reserved.
   </footer>
 </body>
 </html>

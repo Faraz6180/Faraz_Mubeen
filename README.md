@@ -40,24 +40,36 @@
       opacity: 0;
       transition: opacity 1s ease-in-out;
       display: flex;
+      flex-direction: column;
       align-items: center;
       justify-content: center;
       text-align: center;
-      background-size: cover;
-      background-position: center;
+    }
+
+    .slide img {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
     }
 
     .slide.active {
       opacity: 1;
     }
 
+    .slide h1, .slide h2 {
+      position: absolute;
+      color: white;
+      text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    }
+
     .slide h1 {
       font-size: 2.5em;
-      margin-bottom: 10px;
+      top: 30%;
     }
 
     .slide h2 {
       font-size: 1.5em;
+      top: 50%;
     }
 
     .social-icons {
@@ -71,6 +83,7 @@
       margin-left: 10px;
       color: white;
       text-decoration: none;
+      font-weight: bold;
     }
 
     footer {
@@ -85,21 +98,18 @@
 <body>
   <div class="header-container">
     <div class="slider">
-      <div class="slide active" style="background-image: url('background1.jpg');">
-        <div>
-          <h1>Hi, I am Faraz Mubeen Haider</h1>
-          <h2>Software Engineer and Machine Learning Engineer</h2>
-        </div>
+      <div class="slide active">
+        <img src="https://th.bing.com/th/id/OIP.4uIUar5I2C8yToiLCjNwiwHaE7?rs=1&pid=ImgDetMain" alt="Descriptive text for the image">
+        <h1>Hi, I am Faraz Mubeen Haider</h1>
+        <h2>Software Engineer and Machine Learning Engineer</h2>
       </div>
-      <div class="slide" style="background-image: url('background2.jpg');">
-        <div>
-          <h1>Welcome to my Portfolio</h1>
-        </div>
+      <div class="slide">
+        <img src="https://th.bing.com/th/id/OIP.4uIUar5I2C8yToiLCjNwiwHaE7?rs=1&pid=ImgDetMain" alt="Descriptive text for the image">
+        <h1>Welcome to my Portfolio</h1>
       </div>
-      <div class="slide" style="background-image: url('background3.jpg');">
-        <div>
-          <h1>You can find my work, thoughts, and ideas here</h1>
-        </div>
+      <div class="slide">
+        <img src="https://th.bing.com/th/id/OIP.4uIUar5I2C8yToiLCjNwiwHaE7?rs=1&pid=ImgDetMain" alt="Descriptive text for the image">
+        <h1>You can find my work, thoughts, and ideas here</h1>
       </div>
     </div>
     <div class="social-icons">

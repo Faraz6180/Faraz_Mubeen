@@ -6,9 +6,10 @@
   <title>Faraz Mubeen Haider</title>
   <style>
     * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
+       margin: 0;
+       padding: 0;
+       font-family: 'Arial', sans-serif;
+       overflow-x: hidden;
     }
 
     body {
@@ -19,11 +20,22 @@
     }
 
    .header-container {
-  position: relative;
-  overflow: hidden;
-  background-color: #007acc;
-  color: white;
-  height: 100vh; /* Set height to 100% of viewport height */
+    height: 100vh;
+    width: 100%;
+    background: url('https://source.unsplash.com/1920x1080/?technology,professional') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+ 
+}
+.header-content {
+  max-width: 800px;
+  padding: 20px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
 .slider {
@@ -154,28 +166,22 @@
   </style>
 </head>
 <body>
+
   <div class="header-container">
-    <div class="slider">
-      <div class="slide active">
-        <img src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Professional Background Image" alt="Descriptive text for the image">
-        <h1>Hi, I am Faraz Mubeen Haider</h1>
-        <h2>Software Engineer and Machine Learning Engineer</h2>
-      </div>
-      <div class="slide">
-        <img src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Professional Background Image" alt="Descriptive text for the image">
-        <h1>Welcome to my Portfolio</h1>
-      </div>
-      <div class="slide">
-        <img src="https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Professional Background Image" alt="Descriptive text for the image">
-        <h1>You can find my work, thoughts, and ideas here</h1>
-      </div>
-    </div>
+  <div class="header-content">
+    <h1>Hi, I am Faraz Mubeen Haider</h1>
+    <h2>Software Engineer and Machine Learning Engineer</h2>
+    <p>Welcome to my portfolio where you can find my work, thoughts, and ideas.</p>
     <div class="social-icons">
       <a href="https://www.linkedin.com/in/faraz-mubeen-software-engineer/" target="_blank">LinkedIn</a>
       <a href="https://github.com/Faraz6180" target="_blank">GitHub</a>
       <a href="https://www.kaggle.com/faraz618" target="_blank">Kaggle</a>
     </div>
   </div>
+</div>
+
+
+
 
 
 

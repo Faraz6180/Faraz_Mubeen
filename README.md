@@ -22,15 +22,15 @@
     }
 
     .header-container {
-        height: 100vh;
-        width: 100%;
-        background: url('https://source.unsplash.com/1920x1080/?technology,professional') no-repeat center center/cover;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: white;
-        text-align: center;
-    }
+    height: 100vh;
+    width: 100%;
+    background: url('https://www.shutterstock.com/image-vector/abstract-technology-concept-computer-code-260nw-1609451605.jpg') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
 
     .header-content {
         max-width: 800px;

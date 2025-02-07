@@ -6,164 +6,169 @@
   <title>Faraz Mubeen Haider</title>
   <style>
     * {
-       margin: 0;
-       padding: 0;
-       font-family: 'Arial', sans-serif;
-       overflow-x: hidden;
+        margin: 0;
+        padding: 0;
+        font-family: 'Arial', sans-serif;
+        overflow-x: hidden;
+        box-sizing: border-box;
     }
 
     body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f4f4f9;
-      color: #333;
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        background-color: #f4f4f9;
+        color: #333;
+        scroll-behavior: smooth;
     }
 
-   .header-container {
-    height: 100vh;
-    width: 100%;
-    background: url('https://source.unsplash.com/1920x1080/?technology,professional') no-repeat center center/cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center;
- 
-}
-.header-content {
-  max-width: 800px;
-  padding: 20px;
-  background: rgba(0, 0, 0, 0.5);
-  border-radius: 15px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-}
+    .header-container {
+        height: 100vh;
+        width: 100%;
+        background: url('https://source.unsplash.com/1920x1080/?technology,professional') no-repeat center center/cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        text-align: center;
+    }
 
-.slider {
-  position: relative;
-  height: 100%; /* Set height to 100% of parent container */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+    .header-content {
+        max-width: 800px;
+        padding: 20px;
+        background: rgba(0, 0, 0, 0.5);
+        border-radius: 15px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
 
-.slide {
-  position: absolute;
-  width: 100%;
-  height: 100%; /* Set height to 100% of parent container */
-  opacity: 0;
-  transition: opacity 1s ease-in-out;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-}
+    .slider {
+        position: relative;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 
-.slide img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover; 
-}
+    .slide {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        transition: opacity 1s ease-in-out;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
 
-.slide.active {
-  opacity: 1;
-}
+    .slide img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
 
-.slide h1, .slide h2 {
-  position: absolute;
-  color: white;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-}
+    .slide.active {
+        opacity: 1;
+    }
 
-.slide h1 {
-  font-size: 3em; /* Increase font size for better visibility */
-  top: 30%;
-}
+    .slide h1, .slide h2 {
+        position: absolute;
+        color: white;
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    }
 
-.slide h2 {
-  font-size: 2em; /* Increase font size for better visibility */
-  top: 50%;
-}
+    .slide h1 {
+        font-size: 3em;
+        top: 30%;
+    }
 
-.social-icons {
-  position: absolute;
-  top: 20px; /* Adjust top position */
-  right: 20px; /* Adjust right position */
-  display: flex;
-}
+    .slide h2 {
+        font-size: 2em;
+        top: 50%;
+    }
 
-.social-icons a {
-  margin-left: 10px;
-  color: white;
-  text-decoration: none;
-  font-weight: bold;
-}
+    .social-icons {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        display: flex;
+    }
+
+    .social-icons a {
+        margin-left: 10px;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        transition: color 0.3s ease;
+    }
+
+    .social-icons a:hover {
+        color: #007BFF;
+    }
 
     footer {
-      text-align: center;
-      padding: 10px;
-      background: #007acc;
-      color: white;
-      margin-top: 20px;
+        text-align: center;
+        padding: 10px;
+        background: #007acc;
+        color: white;
+        margin-top: 20px;
     }
 
+    .projects {
+        padding: 2rem;
+        text-align: center;
+    }
 
+    .project-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1.5rem;
+        margin-top: 1rem;
+    }
 
-  .projects {
-    padding: 2rem;
-    text-align: center;
-  }
+    .project-card {
+        background: #f9f9f9;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        overflow: hidden;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
 
-  .project-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
-    margin-top: 1rem;
-  }
+    .project-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    }
 
-  .project-card {
-    background: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
+    .project-card img {
+        width: 100%;
+        height: 150px;
+        object-fit: cover;
+    }
 
-  .project-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-  }
+    .project-card h2 {
+        font-size: 1.25rem;
+        margin: 1rem 0 0.5rem;
+    }
 
-  .project-card img {
-    width: 100%;
-    height: 150px;
-    object-fit: cover;
-  }
+    .project-card p {
+        font-size: 0.9rem;
+        color: #555;
+        padding: 0 1rem 1rem;
+    }
 
-  .project-card h2 {
-    font-size: 1.25rem;
-    margin: 1rem 0 0.5rem;
-  }
+    .project-card a {
+        text-decoration: none;
+        color: #007BFF;
+        transition: color 0.3s ease;
+    }
 
-  .project-card p {
-    font-size: 0.9rem;
-    color: #555;
-    padding: 0 1rem 1rem;
-  }
+    .project-card a:hover {
+        text-decoration: underline;
+        color: #0056b3;
+    }
+</style>
 
-  .project-card a {
-    text-decoration: none;
-    color: #007BFF;
-  }
-
-  .project-card a:hover {
-    text-decoration: underline;
-  }
-
-
-  
-  </style>
 </head>
 <body>
 

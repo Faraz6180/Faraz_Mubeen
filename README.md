@@ -94,6 +94,63 @@
       color: white;
       margin-top: 20px;
     }
+
+
+
+  .projects {
+    padding: 2rem;
+    text-align: center;
+  }
+
+  .project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1rem;
+  }
+
+  .project-card {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .project-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+
+  .project-card h2 {
+    font-size: 1.25rem;
+    margin: 1rem 0 0.5rem;
+  }
+
+  .project-card p {
+    font-size: 0.9rem;
+    color: #555;
+    padding: 0 1rem 1rem;
+  }
+
+  .project-card a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+
+  .project-card a:hover {
+    text-decoration: underline;
+  }
+
+
+  
   </style>
 </head>
 <body>
@@ -120,15 +177,41 @@
     </div>
   </div>
 
-  <section>
-    <h1>🚀 Featured Projects</h1>
-    <ul>
-      <li>🔥 <strong><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction" target="_blank">Heart Failure Outcome Prediction</a></strong>: Predicts heart failure risk using Logistic Regression, Decision Trees, and Random Forests to aid early diagnosis and improve patient care.</li>
-      <li>🤖 <strong><a href="https://github.com/Faraz6180/SMS-Spam_Classifier" target="_blank">SMS Spam Classifier</a></strong>: Classifies SMS messages as spam or not using advanced text classification models.</li>
-      <li>🤖 <strong><a href="https://github.com/Faraz6180/ANN-Classification-Churn" target="_blank">ANN Classification Churn</a></strong>: Predicts customer churn probability using neural networks and offers an interactive analysis tool built with Streamlit.</li>
-      <li>🏆 <strong>Gradient Descent Visualization</strong>: Visualizes gradient descent processes to improve neural network accuracy understanding.</li>
-    </ul>
-  </section>
+
+
+
+
+  <section class="projects">
+  <h1>What I've Built So Far</h1>
+  <div class="project-grid">
+    <div class="project-card">
+      <img src="path-to-image-1.jpg" alt="Heart Failure Outcome Prediction">
+      <h2><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction" target="_blank">Heart Failure Outcome Prediction</a></h2>
+      <p>Predicts heart failure risk using Logistic Regression, Decision Trees, and Random Forests to aid early diagnosis and improve patient care.</p>
+    </div>
+    <div class="project-card">
+      <img src="path-to-image-2.jpg" alt="SMS Spam Classifier">
+      <h2><a href="https://github.com/Faraz6180/SMS-Spam_Classifier" target="_blank">SMS Spam Classifier</a></h2>
+      <p>Classifies SMS messages as spam or not using advanced text classification models.</p>
+    </div>
+    <div class="project-card">
+      <img src="path-to-image-3.jpg" alt="ANN Classification Churn">
+      <h2><a href="https://github.com/Faraz6180/ANN-Classification-Churn" target="_blank">ANN Classification Churn</a></h2>
+      <p>Predicts customer churn probability using neural networks and offers an interactive analysis tool built with Streamlit.</p>
+    </div>
+    <div class="project-card">
+      <img src="path-to-image-4.jpg" alt="Gradient Descent Visualization">
+      <h2>Gradient Descent Visualization</h2>
+      <p>Visualizes gradient descent processes to improve neural network accuracy understanding.</p>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
 
   <section>
     <h1>💻 Technical Skills</h1>

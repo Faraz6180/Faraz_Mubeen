@@ -1,260 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Faraz Mubeen Haider</title>
-  <style>
-    * {
-        margin: 0;
-        padding: 0;
-        font-family: 'Arial', sans-serif;
-        overflow-x: hidden;
-        box-sizing: border-box;
-    }
+<h1 align="center">Hi there 👋, I'm Faraz Mubeen</h1>
+<h3 align="center">AI Engineer | Full Stack Developer | Generative AI Specialist</h3>
 
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        background-color: #f4f4f9;
-        color: #333;
-        scroll-behavior: smooth;
-    }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=AI+Developer;ML+Engineer;NLP+Specialist;AI+Agents+Expert" />
+</p>
 
-    .header-container {
-    height: 100vh;
-    width: 100%;
-    background: url('https://www.shutterstock.com/image-vector/abstract-technology-concept-computer-code-260nw-1609451605.jpg') no-repeat center center/cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    text-align: center;
-}
+---
 
-    .header-content {
-        max-width: 800px;
-        padding: 20px;
-        background: rgba(0, 0, 0, 0.5);
-        border-radius: 15px;
-        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    }
+### 🌟 About Me  
+🔭 **Currently Working On:** AI-powered automation, RAG-based search engines, and Full Stack AI applications.  
+🌱 **Learning & Practicing:** MLOps, LangChain, and backend frameworks (FastAPI, Django, Flask).  
+👯 **Collaborating On:** Open Source AI/ML projects.  
+💬 **Ask Me About:** Data Science, Machine Learning, NLP, AI Agents, and Freelancing.  
+⚡ **Fun Fact:** I love reading fiction and deep tech blogs!  
 
-    .slider {
-        position: relative;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
+---
 
-    .slide {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        opacity: 0;
-        transition: opacity 1s ease-in-out;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-    }
+### 🔗 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/fm61/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Faraz6180)  
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?logo=upwork&logoColor=white&style=for-the-badge)](https://www.upwork.com/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your-email@gmail.com)  
 
-    .slide img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
+---
 
-    .slide.active {
-        opacity: 1;
-    }
+### 🚀 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faraz6180&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=radical" width="48%" />
+</p>
 
-    .slide h1, .slide h2 {
-        position: absolute;
-        color: white;
-        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
-    }
+---
 
-    .slide h1 {
-        font-size: 3em;
-        top: 30%;
-    }
+### 🏆 **Top Languages & Skills**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraz6180&layout=compact&theme=radical" width="48%" />
+</p>
 
-    .slide h2 {
-        font-size: 2em;
-        top: 50%;
-    }
+---
 
-    .social-icons {
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        display: flex;
-    }
+### **💡 Let's Collaborate**  
+🚀 If you're working on **AI Agents, MLOps, NLP, or AI-powered applications**, feel free to connect! I'm open to **exciting AI projects and hackathons**. 😊  
 
-    .social-icons a {
-        margin-left: 10px;
-        color: white;
-        text-decoration: none;
-        font-weight: bold;
-        transition: color 0.3s ease;
-    }
+---
 
-    .social-icons a:hover {
-        color: #007BFF;
-    }
+## 📌 **Pinned Projects**  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faraz6180&repo=AI-Search-Engine&theme=radical)](https://github.com/Faraz6180/AI-Search-Engine)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faraz6180&repo=LangChain-Chatbot&theme=radical)](https://github.com/Faraz6180/LangChain-Chatbot)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Faraz6180&repo=ML-Projects&theme=radical)](https://github.com/Faraz6180/ML-Projects)  
 
-    footer {
-        text-align: center;
-        padding: 10px;
-        background: #007acc;
-        color: white;
-        margin-top: 20px;
-    }
+---
 
-    .projects {
-        padding: 2rem;
-        text-align: center;
-    }
-
-    .project-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 1.5rem;
-        margin-top: 1rem;
-    }
-
-    .project-card {
-        background: #f9f9f9;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        overflow: hidden;
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .project-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-    }
-
-    .project-card img {
-        width: 100%;
-        height: 150px;
-        object-fit: cover;
-    }
-
-    .project-card h2 {
-        font-size: 1.25rem;
-        margin: 1rem 0 0.5rem;
-    }
-
-    .project-card p {
-        font-size: 0.9rem;
-        color: #555;
-        padding: 0 1rem 1rem;
-    }
-
-    .project-card a {
-        text-decoration: none;
-        color: #007BFF;
-        transition: color 0.3s ease;
-    }
-
-    .project-card a:hover {
-        text-decoration: underline;
-        color: #0056b3;
-    }
-</style>
-
-</head>
-<body>
-
-  <div class="header-container">
-  <div class="header-content">
-    <h1>Hi, I am Faraz Mubeen Haider</h1>
-    <h2>Software Engineer and Machine Learning Engineer</h2>
-    <p>Welcome to my portfolio where you can find my work, thoughts, and ideas.</p>
-    <div class="social-icons">
-      <a href="https://www.linkedin.com/in/faraz-mubeen-software-engineer/" target="_blank">LinkedIn</a>
-      <a href="https://github.com/Faraz6180" target="_blank">GitHub</a>
-      <a href="https://www.kaggle.com/faraz618" target="_blank">Kaggle</a>
-    </div>
-  </div>
-</div>
-
-
-
-
-
-
-
-
-  <section class="projects">
-  <h1>What I've Built So Far</h1>
-  <div class="project-grid">
-    <div class="project-card">
-      <img src="path-to-image-1.jpg" alt="Heart Failure Outcome Prediction">
-      <h2><a href="https://github.com/Faraz6180/Heart-failure-outcome-prediction" target="_blank">Heart Failure Outcome Prediction</a></h2>
-      <p>Predicts heart failure risk using Logistic Regression, Decision Trees, and Random Forests to aid early diagnosis and improve patient care.</p>
-    </div>
-    <div class="project-card">
-      <img src="path-to-image-2.jpg" alt="SMS Spam Classifier">
-      <h2><a href="https://github.com/Faraz6180/SMS-Spam_Classifier" target="_blank">SMS Spam Classifier</a></h2>
-      <p>Classifies SMS messages as spam or not using advanced text classification models.</p>
-    </div>
-    <div class="project-card">
-      <img src="path-to-image-3.jpg" alt="ANN Classification Churn">
-      <h2><a href="https://github.com/Faraz6180/ANN-Classification-Churn" target="_blank">ANN Classification Churn</a></h2>
-      <p>Predicts customer churn probability using neural networks and offers an interactive analysis tool built with Streamlit.</p>
-    </div>
-    <div class="project-card">
-      <img src="path-to-image-4.jpg" alt="Gradient Descent Visualization">
-      <h2>Gradient Descent Visualization</h2>
-      <p>Visualizes gradient descent processes to improve neural network accuracy understanding.</p>
-    </div>
-  </div>
-</section>
-
-
-
-
-
-
-
-  <section>
-    <h1>💻 Technical Skills</h1>
-    <p>
-      <strong>Languages:</strong> Python, Java, SQL<br>
-      <strong>Libraries & Frameworks:</strong> TensorFlow, PyTorch, scikit-learn, Hugging Face<br>
-      <strong>AI/ML:</strong> Deep Learning, NLP, RAG, Transformers, Generative Models<br>
-      <strong>Tools:</strong> Git, Docker, Kubernetes, Jupyter Notebooks<br>
-      <strong>Data Visualization:</strong> Matplotlib, Seaborn, Plotly
-    </p>
-  </section>
-
-  <footer>
-    &copy; 2025 Faraz Mubeen Haider. All rights reserved.
-  </footer>
-
-  <script>
-    const slides = document.querySelectorAll('.slide');
-    let currentSlide = 0;
-
-    function showSlide(index) {
-      slides.forEach((slide, i) => {
-        slide.classList.toggle('active', i === index);
-      });
-    }
-
-    function nextSlide() {
-      currentSlide = (currentSlide + 1) % slides.length;
-      showSlide(currentSlide);
-    }
-
-    setInterval(nextSlide, 3000);
-  </script>
-</body>
-</html>
+### 📅 **GitHub Contributions Activity**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Faraz6180&theme=react-dark" width="100%" />
+</p>

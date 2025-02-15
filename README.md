@@ -76,7 +76,7 @@ I'm always excited to work on cutting-edge AI projects. If you're looking for an
 
 ## 🏆 Awards & Achievements
 
-- Participated in 4 international hackathons.
+- Participated in 5 international hackathons.
 - Built multiple innovative AI products generating revenue.
 - Recognized for my contributions in AI, machine learning, and generative AI projects.
 

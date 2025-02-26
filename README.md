@@ -1,36 +1,29 @@
 # Hi there, I'm Faraz Mubeen 👋  
-### AI Consultant | AI Automation Expert | Generative AI Specialist  
+### AI Engineer | ML Specialist | Generative AI Consultant  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Consultant;AI+Automation+Specialist;Generative+AI+Expert&font=Fira+Code&duration=2000&pause=500&center=true&width=600&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;ML+Specialist;Generative+AI+Expert&font=Fira+Code&duration=2000&pause=500&center=true&width=600&height=50" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 Why Work With Me?  
+## 🌟 About Me  
 
-I'm an **AI Consultant & Engineer** helping businesses **automate workflows, build AI-powered applications, and optimize operations** using the latest in **Generative AI, AI Agents, and Retrieval-Augmented Generation (RAG).**  
+I am an **AI Engineer & Consultant** with a proven track record in **Generative AI, AI Automation, and Retrieval-Augmented Generation (RAG)**.  
+I specialize in **building AI solutions that drive business growth**, automate workflows, and enhance productivity.  
 
-🚀 **Proven Track Record**  
-✅ **6+ international AI hackathons** – Building high-impact AI solutions for real-world business problems.  
-✅ **AI-powered business automation** – Reducing manual work & improving efficiency with AI.  
-✅ **AI applications that generate revenue** – Helping businesses **convert AI into profit**.  
-
-💡 **How I Can Help You:**  
-✔ **AI Chatbots & Virtual Assistants** – AI-powered assistants tailored to your business needs.  
-✔ **AI-Powered Search & RAG** – Build intelligent search tools that retrieve & summarize complex data.  
-✔ **AI Process Automation** – Automate repetitive business tasks & decision-making.  
-
-📌 **[Book a Free AI Consultation](#)** | **[Hire Me on Upwork](#)**  
+🔹 **6+ international hackathons** – Recognized for building AI solutions that optimize business processes.  
+🔹 **AI-driven automation** – Helping businesses streamline operations with **LLMs, NLP, and AI Agents**.  
+🔹 **AI-powered products** – Delivered revenue-generating AI solutions in search, automation, and lead generation.  
 
 ---
 
-## 🛠️ AI Tech Stack  
+## 🛠️ Technical Skills & Tools  
 
 - **Programming Languages:** Python, SQL, JavaScript  
 - **Frameworks & Libraries:** FastAPI, Flask, Django, LangChain, FAISS, Chroma, Hugging Face Transformers, PyTorch, TensorFlow  
 - **Tools & Platforms:** Git, Docker, Kubernetes, Streamlit, Pandas, NumPy, Scikit-Learn  
-- **AI Specialties:** LLMs, NLP, AI Automation, AI-Powered Search, MLOps  
+- **Specialties:** AI Automation, RAG, AI-Powered Search, NLP, Gen AI  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -43,52 +36,42 @@ I'm an **AI Consultant & Engineer** helping businesses **automate workflows, bui
 
 ---
 
-## 🚀 AI-Powered Solutions  
+## 🚀 AI Projects & Business Solutions  
 
-### **🔹 AI-Powered Lead Qualification (Business Sales Automation)**  
-📌 **Impact:** AI-driven system improved **lead conversion by 30%** by evaluating client fit in real-time.  
+### **AI-Powered Lead Generation**  
+📌 **Business Impact:** Increased **sales conversion by 30%** through AI-driven client evaluation.  
 🔹 **Tech Stack:** Next.js, FastAPI, LangChain, IBM Watson AI  
-📌 **[View Project](#) | [Hire Me to Build Custom AI Lead Solutions](#)**  
+📌 **[View Project](https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/polyens/advancedleadsgeneration-ai)
 
-### **🔹 AI Search Engine & RAG (Research & Enterprise Search)**  
-📌 **Impact:** Reduced research time by **80%** by integrating multi-source knowledge retrieval.  
+### **AI-Powered Search Engine**  
+📌 **Business Impact:** Reduced research time by **80%** for enterprises & universities.  
 🔹 **Tech Stack:** Python, LangChain, FAISS, Streamlit  
-📌 **[View Project](#) | [Custom AI Search Tools](#)**  
+📌 **[View Project](#) 
 
-### **🔹 AI Debugging Assistant for Developers**  
-📌 **Impact:** Cut debugging time by **40%**, helping engineers **fix code faster**.  
+### **AI Debugging Assistant for Developers**  
+📌 **Business Impact:** Cut debugging time by **40%**, improving developer efficiency.  
 🔹 **Tech Stack:** LangChain, OpenAI, FastAPI, VS Code Extension API  
-📌 **[View Project](#) | [Hire Me to Automate Dev Workflows](#)**  
+📌 **[View Project](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow)
 
 ---
 
-## 🏆 AI Hackathon Experience  
-
-**I've competed in 6+ international hackathons**, building real-world AI applications that **optimize workflows, automate processes, and enhance business efficiency.**  
+## 🏆 Hackathon Experience – AI for Business & Automation  
+🚀 **Participated in 6+ international hackathons**, building AI solutions that automate **sales, research, and business processes.**  
 
 ### 🏅 **IBM Granite Hackathon – AI for Lead Generation**  
-📌 **Business Impact:** AI-powered system increased **lead qualification accuracy by 30%**.  
+📌 **Impact:** AI system that increased **lead qualification accuracy by 30%**.  
 🔹 **Tech Stack:** Next.js, FastAPI, LangChain, IBM Watson AI  
-📌 **[Project Submission](#) | [Certificate](#)**  
+📌 **[Project Submission](https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/polyens/advancedleadsgeneration-ai) | [Certificate](#)**  
 
 ### 🏅 **DeepSeek Hackathon – AI Debugging Assistant**  
-📌 **Business Impact:** Automated debugging, cutting error resolution time by **40%**.  
+📌 **Impact:** Automated debugging and documentation, cutting time by **40%**.  
 🔹 **Tech Stack:** LangChain, OpenAI, FastAPI  
-📌 **[Project Submission](#) | [Certificate](#)**  
+📌 **[Project Submission](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow) | [Certificate](#)**  
 
 ### 🏅 **Replit Hackathon – AI Research Assistant**  
-📌 **Business Impact:** AI-powered research tool reduced **manual search time by 80%**.  
+📌 **Impact:** AI-powered research tool reduced **manual search time by 80%**.  
 🔹 **Tech Stack:** Python, LangChain, FAISS, Streamlit  
-📌 **[Project Submission](#) | [Certificate](#)**  
-
----
-
-## ⭐ Client Success Stories & Testimonials  
-📢 **“Faraz built an AI-powered document assistant for my company, saving us 15+ hours per week in manual work!”** – [Client Name]  
-
-📢 **“The AI search tool Faraz developed helped us retrieve research papers 5X faster—huge productivity boost!”** – [Client Name]  
-
-📌 **[Read More Success Stories](#) | [Hire Me for AI Automation](#)**  
+📌 **[Project Submission](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner) | [Certificate](https://lablab.ai/u/@faraz_haider215/cm4wwyncr002k500gcm9a0uhi)**  
 
 ---
 
@@ -100,7 +83,7 @@ I'm an **AI Consultant & Engineer** helping businesses **automate workflows, bui
 2️⃣ **Get a Custom AI Plan** – I’ll outline the best AI solutions for your business.  
 3️⃣ **Project Execution & Delivery** – Watch your AI-powered solution come to life.  
 
-📌 **[Schedule a Free Consultation](#) | [Hire Me on Upwork](#) | [Email Me](mailto:farazmubeen902@gmail.com)**  
+📌 * [Email Me](mailto:farazmubeen902@gmail.com)**  
 
 ---
 
@@ -127,7 +110,5 @@ I'm always excited to **collaborate on AI projects** that drive **real-world imp
 
 ---
 
-## 🤝 Let’s Build AI-Powered Solutions Together! 🚀  
-If you're looking for an AI consultant to help turn AI into **business revenue**, let’s talk.  
-
-📌 **[Hire Me on Upwork](#) | [Schedule a Free Consultation](#)**  
+## 🤝 Let's Build AI-Powered Solutions Together! 🚀  
+If you're looking for an **AI Engineer who delivers revenue-generating solutions**, let's talk.  

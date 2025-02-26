@@ -58,8 +58,9 @@ I specialize in:
 ---
 
 ## 🏆 Hackathon Experience – AI & Business Innovations  
+---
 
-I actively participate in **global AI hackathons**, building **cutting-edge AI solutions** that drive **business efficiency and automation**. These projects showcase my **expertise in Generative AI, RAG, AI Agents, and Business Process Optimization**.  
+Participating in global AI hackathons has refined my expertise in **Generative AI, RAG (Retrieval-Augmented Generation), AI Agents, and Business Process Automation**. Below are my top projects, with links to submissions and certificates.  
 
 ### 🏅 **Lablab.ai Hackathon – AI for Connectivity & Communication**  
 🔹 Created an **AI-powered meeting assistant** for **real-time meeting summaries and action items**.  
@@ -74,6 +75,18 @@ I actively participate in **global AI hackathons**, building **cutting-edge AI s
 🔹 **Impact:** Enhanced research capabilities with **instant AI-generated summaries**.  
 🔹 **Tech Stack:** Python, LangChain, FAISS, Streamlit  
 🔹 **[Project Submission](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner)** | **[Certificate](https://lablab.ai/u/@faraz_haider215/cm4wwyncr002k500gcm9a0uhi)**  
+
+---
+
+### 🏅 **AIstronauts Hackathon – AI-Powered Space Search & Summarization**  
+🔹 **Led a team of three international participants** to build an **intelligent search and summarization tool** for space-related information.  
+🔹 **Key Features:**  
+   - **NLP-Powered Search:** Answers questions like *“Where is the ISS?”* in simple language.  
+   - **Space Image Recognition:** Identifies celestial bodies in user-uploaded images.  
+   - **Personalized Recommendations:** Suggests stargazing dates and astronomical events.  
+🔹 **Impact:** Simplified information retrieval by providing **real-time, personalized space data**.  
+🔹 **Tech Stack:** AI, NLP, Image Recognition, Space Data APIs  
+🔹 **[Project Submission](https://lablab.ai/event/aistronauts-space-agents-on-a-mission/arcana-space-agent/arcana-space-agent)** | **[Certificate](https://lablab.ai/u/@Faraz_Mubeen/cm7jmiyal00088yda6fwqzrug)**  
 
 ---
 

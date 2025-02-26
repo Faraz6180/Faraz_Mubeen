@@ -74,7 +74,7 @@ I'm always excited to work on cutting-edge AI projects. If you're looking for an
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Hackathons contestant 
 
 - Participated in 6 international hackathons.
 - Built multiple innovative AI products generating revenue.

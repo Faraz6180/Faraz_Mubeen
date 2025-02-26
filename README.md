@@ -61,6 +61,22 @@ I specialize in:
 
 I actively participate in **global AI hackathons**, building **cutting-edge AI solutions** that drive **business efficiency and automation**. These projects showcase my **expertise in Generative AI, RAG, AI Agents, and Business Process Optimization**.  
 
+### 🏅 **Lablab.ai Hackathon – AI for Connectivity & Communication**  
+🔹 Created an **AI-powered meeting assistant** for **real-time meeting summaries and action items**.  
+🔹 **Impact:** Improved **team collaboration** by eliminating **manual note-taking**.  
+🔹 **Tech Stack:** Python, LangChain, OpenAI, Whisper API  
+🔹 **[Project Submission](https://lablab.ai/event/ai-for-connectivity-hackathon/netforall/netforall)** | **[Certificate](https://lablab.ai/u/@Faraz_Mubeen/cm6v2l8po005pai2mmilgcgej)**  
+
+---
+
+### 🏅 **Replit Hackathon – AI-Powered Search Engine**  
+🔹 Built an **AI-powered research assistant** integrating **Wikipedia, Arxiv, and DuckDuckGo** for knowledge retrieval.  
+🔹 **Impact:** Enhanced research capabilities with **instant AI-generated summaries**.  
+🔹 **Tech Stack:** Python, LangChain, FAISS, Streamlit  
+🔹 **[Project Submission](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner)** | **[Certificate](https://lablab.ai/u/@faraz_haider215/cm4wwyncr002k500gcm9a0uhi)**  
+
+---
+
 ### 🏅 **IBM Granite Hackathon – Advanced Leads Generation AI**  
 🔹 **AI-driven lead qualification system** simulating **real-world business negotiations** using AI agents.  
 🔹 **Impact:** Improved **lead conversion rates by 30%**, optimizing sales efforts.  
@@ -73,31 +89,14 @@ I actively participate in **global AI hackathons**, building **cutting-edge AI s
 🔹 **Developed an AI-driven debugging assistant** that automatically **analyzes, debugs, and generates documentation**.  
 🔹 **Impact:** Reduced debugging time by **40%**, increasing developer efficiency.  
 🔹 **Tech Stack:** LangChain, OpenAI, FastAPI, VS Code Extension API  
-🔹 **[Project Submission](#)** | **[Certificate](#)**  
+🔹 **[Project Submission](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow)** | **[Certificate](#)**  
 
 ---
 
-### 🏅 **Lablab.ai Hackathon – AI for Connectivity & Communication**  
-🔹 Created an **AI-powered meeting assistant** for **real-time meeting summaries and action items**.  
-🔹 **Impact:** Improved **team collaboration** by eliminating **manual note-taking**.  
-🔹 **Tech Stack:** Python, LangChain, OpenAI, Whisper API  
-🔹 **[Project Submission](#)** | **[Certificate](#)**  
+## 📢 Let's Collaborate!  
 
----
+If you're working on **AI, machine learning, or Generative AI** and looking for a collaborator or freelancer, let's **connect and build something amazing together!** 🚀  
 
-### 🏅 **Replit Hackathon – AI-Powered Search Engine**  
-🔹 Built an **AI-powered research assistant** integrating **Wikipedia, Arxiv, and DuckDuckGo** for knowledge retrieval.  
-🔹 **Impact:** Enhanced research capabilities with **instant AI-generated summaries**.  
-🔹 **Tech Stack:** Python, LangChain, FAISS, Streamlit  
-🔹 **[Project Submission](#)** | **[Certificate](#)**  
-
----
-
-### 🏅 **Pak Angle Hackathon – AI for Business Process Automation**  
-🔹 Developed an **AI-driven automation system** for **business workflow optimization**.  
-🔹 **Impact:** Increased workflow efficiency by **40%**, reducing manual effort.  
-🔹 **Tech Stack:** LangChain, OpenAI, FastAPI, Streamlit  
-🔹 **[Project Submission](#)** | **[Certificate](#)**  
 
 ---
 

@@ -74,14 +74,36 @@ I'm always excited to work on cutting-edge AI projects. If you're looking for an
 
 ---
 
-## 🏆 Hackathons contestant 
+## 🏆 Hackathon Projects & AI Innovations
+Participating in global AI hackathons has helped me refine my skills in Generative AI, RAG (Retrieval-Augmented Generation), AI Agents, and Business Process Automation. Below are some of my top projects, along with links to submissions and certificates.
+**🏅 Advanced Leads Generation AI (IBM Granite Hackathon)**
+📌 Description: AI-driven lead qualification system that simulates real-world business negotiations using AI agents. Helps businesses identify high-value clients with 30% greater accuracy.
+🔹 Key Features: AI-powered lead assessment, automated scoring, and decision-making
+🔹 Tech Stack: Next.js, FastAPI, IBM Watson AI, LangChain
+🔹 Submission: View Project
+🔹 Certificate: View Certificate
 
-- Participated in 6 international hackathons.
-- Built multiple innovative AI products generating revenue.
-- Recognized for my contributions in AI, machine learning, and generative AI projects.
+**🏅 AI-Powered Documentation & Debugging Assistant (DeepSeek Hackathon)**
+📌 Description: Developed an AI-driven documentation and debugging assistant that helps developers auto-generate documentation and identify code issues using LLM-powered analysis.
+🔹 Key Features: AI-generated documentation, auto-debugging, and real-time code analysis
+🔹 Tech Stack: LangChain, OpenAI, FastAPI, VS Code Extension API
+🔹 Submission: View Project
+🔹 Certificate: View Certificate
 
+**🏅 AI for Connectivity & Communication (Lablab.ai Hackathon)**
+📌 Description: Built an AI-powered assistant that enhances remote team collaboration by generating real-time summaries, action points, and meeting insights.
+🔹 Key Features: AI-powered meeting summaries, NLP-driven action items, voice-to-text integration
+🔹 Tech Stack: Python, LangChain, OpenAI, Whisper API
+🔹 Submission: View Project
+🔹 Certificate: View Certificate
+
+🏅 AI-Powered Search Engine (Replit Hackathon)
+📌 Description: A multi-source AI search engine integrating Wikipedia, Arxiv, and DuckDuckGo, built for instant knowledge retrieval and research assistance.
+🔹 Key Features: Real-time search, NLP-powered summarization, document embeddings
+🔹 Tech Stack: Python, LangChain, FAISS, Streamlit
+🔹 Submission: View Project
+🔹 Certificate: View Certificate
 ---
-
 ## 🤝 Let's Collaborate!
 
 If you're working on projects related to AI, machine learning, or generative AI, or if you're a high-paying client looking for an expert to help drive your business forward, **let's connect and build something amazing together!**

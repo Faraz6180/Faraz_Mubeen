@@ -12,7 +12,7 @@
 I am an **AI Engineer & Consultant** with a proven track record in **Generative AI, AI Automation, and Retrieval-Augmented Generation (RAG)**.  
 I specialize in **building AI solutions that drive business growth**, automate workflows, and enhance productivity.  
 
-🔹 **6+ international hackathons** – Recognized for building AI solutions that optimize business processes.  
+🔹 **7+ international hackathons** – Recognized for building AI solutions that optimize business processes.  
 🔹 **AI-driven automation** – Helping businesses streamline operations with **LLMs, NLP, and AI Agents**.  
 🔹 **AI-powered products** – Delivered revenue-generating AI solutions in search, automation, and lead generation.  
 

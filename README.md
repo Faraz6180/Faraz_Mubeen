@@ -56,7 +56,7 @@ I specialize in **building AI solutions that drive business growth**, automate w
 ---
 
 ## 🏆 Hackathon Experience – AI for Business & Automation  
-🚀 **Participated in 6+ international hackathons**, building AI solutions that automate **sales, research, and business processes.**  
+🚀 **Participated in 7+ international hackathons**, building AI solutions that automate **sales, research, and business processes.**  
 
 ### 🏅 **IBM Granite Hackathon – AI for Lead Generation**  
 📌 **Impact:** AI system that increased **lead qualification accuracy by 30%**.  

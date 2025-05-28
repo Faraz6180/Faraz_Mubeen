@@ -23,11 +23,6 @@
 
 I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI, NLP, and AI-Powered Automation**. I help teams turn business problems into scalable AI solutions that cut costs, save time, and drive revenue.
 
-🧠 **I specialize in building:**
-- Custom AI agents for research & automation  
-- Retrieval-Augmented Generation (RAG) systems  
-- Chatbots that improve CX in healthcare & business  
-
 ---
 
 ## 🧰 Tech Stack – Built for Scale  

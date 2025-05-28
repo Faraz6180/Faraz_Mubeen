@@ -119,7 +119,8 @@ I'm currently **open to internships, freelance, or part-time roles** in:
 - 📧 Email: [farazmubeen902@gmail.com](mailto:farazmubeen902@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/fm61](https://www.linkedin.com/in/fm61/)  
 - 💼 Portfolio: [github.com/Faraz6180](https://github.com/Faraz6180)  
-- 🧠 Resume: [Request via Email or LinkedIn]
+- - 🧠 Resume: [View Resume](https://drive.google.com/file/d/1ruDpSnujyjCOoaIDspE4-BiWwPfNzaCz/view?usp=sharing)
+
 
 ---
 

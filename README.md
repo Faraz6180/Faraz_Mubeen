@@ -1,9 +1,17 @@
 # Hi there, I'm Faraz Mubeen 👋  
-### AI Engineer | ML Specialist | Generative AI Consultant  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;ML+Specialist;Generative+AI+Consultant;Automation+with+LLMs;AI+for+Business+Growth&font=Fira+Code&duration=2000&pause=500&center=true&width=700&height=50" alt="Typing SVG" />
+<p align="right">
+  <a href="https://drive.google.com/file/d/1ruDpSnujyjCOoaIDspE4-BiWwPfNzaCz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-CV-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
+  </a>
+  <a href="#-projects--real-impact-real-results">
+    <img src="https://img.shields.io/badge/-Projects-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+  <a href="#-lets-work-together">
+    <img src="https://img.shields.io/badge/-Contact-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+  </a>
 </p>
+
 
 ---
 

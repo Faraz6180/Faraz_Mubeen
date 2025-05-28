@@ -1,4 +1,4 @@
-# Hi there, I'm Faraz Mubeen 👋  
+
 
 <p align="right">
   <a href="https://drive.google.com/file/d/1ruDpSnujyjCOoaIDspE4-BiWwPfNzaCz/view?usp=sharing" target="_blank">

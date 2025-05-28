@@ -1,5 +1,3 @@
-
-
 <p align="right">
   <a href="https://drive.google.com/file/d/1ruDpSnujyjCOoaIDspE4-BiWwPfNzaCz/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-CV-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" />
@@ -14,7 +12,6 @@
     <img src="https://img.shields.io/badge/-Contact-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
   </a>
 </p>
-
 
 ---
 
@@ -32,7 +29,15 @@
 
 ## 🌍 Who Am I?
 
-I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI, NLP, and AI-Powered Automation**. I help teams turn business problems into scalable AI solutions that cut costs, save time, and drive revenue.
+I’m **Faraz Mubeen**, a results-driven **AI Engineer** who turns automation and AI into business outcomes.  
+My niche? **AI-Powered Automation** – especially in **healthcare, education, and dev workflows**.
+
+I specialize in:
+- Building **AI agents** & **RAG pipelines**
+- Automating **manual research & decision-making**
+- Making AI **accessible & ROI-driven**
+
+> _“Don’t just build tools — build tools that solve real pain.”_
 
 ---
 
@@ -51,7 +56,7 @@ I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI
 `Docker` | `Git` | `Streamlit` | `FastAPI` | `Flask` | `VS Code Extension API`  
 
 **Specialties:**  
-`AI Agents` | `RAG Systems` | `AI Search` | `NLP Automation` | `Generative AI Workflows`  
+`AI Agents` | `RAG Systems` | `NLP Automation` | `Generative AI Workflows` | `Prompt Engineering`
 
 ---
 
@@ -78,6 +83,13 @@ I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI
 
 ---
 
+### 🩺 Health Informatics Chatbot (Coming Soon)  
+**🎯 Goal:** Reduce patient queries by 60% in diabetes clinics  
+**Tech:** Hugging Face, FastAPI, RAG, Chroma DB  
+🔗 [Preview](#)
+
+---
+
 ## 🏆 Hackathon Highlights
 
 🛠️ **12x International Hackathons** – Delivering business-centric AI solutions  
@@ -101,15 +113,25 @@ I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI
 
 ---
 
-### 📞 Reach Out  
+## 💼 Work With Me – AI That Actually Works  
+
+💡 **Struggling to make sense of AI?**  
+I turn business ideas into **automated AI tools** using real-world metrics.
+
+📌 **Let’s talk if you need help with:**
+- Custom AI agent development
+- Automating customer support
+- Data extraction from PDFs, websites, or medical reports
+- Healthcare analytics automation (RPM, EHR systems)
+
+📫 Reach Out:
 - 📧 Email: [farazmubeen902@gmail.com](mailto:farazmubeen902@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/fm61](https://www.linkedin.com/in/fm61/)  
 - 💼 Portfolio: [github.com/Faraz6180](https://github.com/Faraz6180)  
 - 🧠 Resume: [View Resume](https://drive.google.com/file/d/1ruDpSnujyjCOoaIDspE4-BiWwPfNzaCz/view?usp=sharing)
 
-
 ---
 
 ## ✨ Let’s Build Something Powerful with AI  
 _"I'm not just building models – I'm solving problems that matter."_  
-Let’s talk if you need someone who delivers **business-ready AI products**.
+Let’s talk if you need someone who delivers **business-ready AI products** that actually work.

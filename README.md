@@ -101,31 +101,6 @@ I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI
 
 ---
 
-## 🔧 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faraz6180&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=radical" alt="GitHub Streak" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraz6180&layout=compact&theme=radical" width="45%" />
-</p>
-
----
-
-## 📩 Let’s Work Together  
-
-I'm currently **open to internships, freelance, or part-time roles** in:  
-- AI/ML Engineering  
-- Automation with LLMs  
-- GenAI Product Development  
-
-🚀 **Why me?**  
-- Proven ability to deliver business value with AI  
-- Fast learner with hackathon-tested skills  
-- Solid track record in building & shipping working solutions
-
 ### 📞 Reach Out  
 - 📧 Email: [farazmubeen902@gmail.com](mailto:farazmubeen902@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/fm61](https://www.linkedin.com/in/fm61/)  

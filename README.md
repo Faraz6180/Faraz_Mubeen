@@ -7,6 +7,21 @@
 
 ---
 
+## 🎥 Meet Me in 60 Seconds
+
+Want to know who I really am beyond the buzzwords?  
+Check out this 1-minute video intro that shows my journey, mindset, and mission:
+
+<p align="center">
+  <a href="https://youtu.be/LYdQAR4lpcw?feature=shared" target="_blank">
+    <img width="70%" src="https://img.youtube.com/vi/LYdQAR4lpcw/hqdefault.jpg" alt="Faraz Mubeen Intro Video" />
+  </a>  
+  <br/>
+  <strong>▶️ Click to Watch</strong>
+</p>
+
+---
+
 ## 🌍 Who Am I?
 
 I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI, NLP, and AI-Powered Automation**. I help teams turn business problems into scalable AI solutions that cut costs, save time, and drive revenue.
@@ -119,4 +134,3 @@ I'm currently **open to internships, freelance, or part-time roles** in:
 ## ✨ Let’s Build Something Powerful with AI  
 _"I'm not just building models – I'm solving problems that matter."_  
 Let’s talk if you need someone who delivers **business-ready AI products**.
-

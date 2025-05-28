@@ -7,6 +7,9 @@
   <a href="#-projects--real-impact-real-results">
     <img src="https://img.shields.io/badge/-Projects-blue?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
+  <a href="https://medium.com/@farazmubeen902" target="_blank">
+    <img src="https://img.shields.io/badge/-Blog-black?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
+  </a>
   <a href="#-lets-work-together">
     <img src="https://img.shields.io/badge/-Contact-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
   </a>

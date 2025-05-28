@@ -69,7 +69,7 @@ I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI
 
 ## 🏆 Hackathon Highlights
 
-🛠️ **11x International Hackathons** – Delivering business-centric AI solutions  
+🛠️ **12x International Hackathons** – Delivering business-centric AI solutions  
 
 ### 🥇 IBM Granite Hackathon  
 **Built:** AI for lead scoring → 30% boost in sales calls  

@@ -9,9 +9,6 @@
 
 ## 🎥 Meet Me in 60 Seconds
 
-Want to know who I really am beyond the buzzwords?  
-Check out this 1-minute video intro that shows my journey, mindset, and mission:
-
 <p align="center">
   <a href="https://youtu.be/LYdQAR4lpcw?feature=shared" target="_blank">
     <img width="70%" src="https://img.youtube.com/vi/LYdQAR4lpcw/hqdefault.jpg" alt="Faraz Mubeen Intro Video" />

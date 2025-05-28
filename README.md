@@ -2,113 +2,121 @@
 ### AI Engineer | ML Specialist | Generative AI Consultant  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;ML+Specialist;Generative+AI+Expert&font=Fira+Code&duration=2000&pause=500&center=true&width=600&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Engineer;ML+Specialist;Generative+AI+Consultant;Automation+with+LLMs;AI+for+Business+Growth&font=Fira+Code&duration=2000&pause=500&center=true&width=700&height=50" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me  
+## 🌍 Who Am I?
 
-I am an **AI Engineer & Consultant** with a proven track record in **Generative AI, AI Automation, and Retrieval-Augmented Generation (RAG)**.  
-I specialize in **building AI solutions that drive business growth**, automate workflows, and enhance productivity.  
+I’m **Faraz Mubeen**, a self-driven **AI Engineer** focused on **Generative AI, NLP, and AI-Powered Automation**. I help teams turn business problems into scalable AI solutions that cut costs, save time, and drive revenue.
 
-🔹 **11x international hackathons** – Recognized for building AI solutions that optimize business processes.  
-🔹 **AI-driven automation** – Helping businesses streamline operations with **LLMs, NLP, and AI Agents**.  
-🔹 **AI-powered products** – Delivered revenue-generating AI solutions in search, automation, and lead generation.  
+🧠 **I specialize in building:**
+- Custom AI agents for research & automation  
+- Retrieval-Augmented Generation (RAG) systems  
+- Chatbots that improve CX in healthcare & business  
 
 ---
 
-## 🛠️ Technical Skills & Tools  
+## 🧰 Tech Stack – Built for Scale  
 
-- **Programming Languages:** Python, SQL, JavaScript  
-- **Frameworks & Libraries:** FastAPI, Flask, Django, LangChain, FAISS, Chroma, Hugging Face Transformers, PyTorch, TensorFlow  
-- **Tools & Platforms:** Git, Docker, Kubernetes, Streamlit, Pandas, NumPy, Scikit-Learn  
-- **Specialties:** AI Automation, RAG, AI-Powered Search, NLP, Gen AI  
+**Languages:**  
+`Python` | `SQL` | `JavaScript`  
+
+**AI & ML Frameworks:**  
+`Hugging Face Transformers` | `LangChain` | `TensorFlow` | `PyTorch` | `Scikit-learn`
+
+**Databases & Vector Search:**  
+`FAISS` | `Chroma` | `Weaviate` | `PostgreSQL`  
+
+**Dev Tools & Platforms:**  
+`Docker` | `Git` | `Streamlit` | `FastAPI` | `Flask` | `VS Code Extension API`  
+
+**Specialties:**  
+`AI Agents` | `RAG Systems` | `AI Search` | `NLP Automation` | `Generative AI Workflows`  
+
+---
+
+## 🚀 Projects – Real Impact, Real Results  
+
+### 🔍 AI-Powered Search Engine  
+**📊 Outcome:** Cut manual research time by **80%** for students & researchers  
+**Tech:** Python, LangChain, FAISS, Streamlit  
+🔗 [View Project](#)
+
+---
+
+### 🤖 AI Debugging Assistant for Developers  
+**📊 Outcome:** Reduced bug-fixing time by **40%**  
+**Tech:** LangChain, OpenAI, FastAPI, VS Code API  
+🔗 [Live Demo](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow)
+
+---
+
+### 🎯 AI for Lead Generation  
+**📊 Outcome:** Improved lead conversion by **30%** for startups  
+**Tech:** LangChain, IBM Watson, FastAPI, Next.js  
+🔗 [View Project](https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/polyens/advancedleadsgeneration-ai)
+
+---
+
+## 🏆 Hackathon Highlights
+
+🛠️ **11x International Hackathons** – Delivering business-centric AI solutions  
+
+### 🥇 IBM Granite Hackathon  
+**Built:** AI for lead scoring → 30% boost in sales calls  
+🔗 [Project](https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/polyens/advancedleadsgeneration-ai)
+
+---
+
+### 🥈 DeepSeek Hackathon  
+**Built:** AI Dev Tool → Debugging time slashed by 40%  
+🔗 [Project](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow)
+
+---
+
+### 🥉 Replit x Cursor Hackathon  
+**Built:** AI Research Assistant → 80% faster insight extraction  
+🔗 [Project](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner)  
+🔗 [Certificate](https://lablab.ai/u/@faraz_haider215/cm4wwyncr002k500gcm9a0uhi)
+
+---
+
+## 🔧 GitHub Stats  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/LangChain-4E9AAF?style=for-the-badge&logo=python&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FAISS-FFC300?style=for-the-badge" alt="FAISS" />
-</p>
-
----
-
-## 🚀 AI Projects & Business Solutions  
-
-### **AI-Powered Lead Generation**  
-📌 **Business Impact:** Increased **sales conversion by 30%** through AI-driven client evaluation.  
-🔹 **Tech Stack:** Next.js, FastAPI, LangChain, IBM Watson AI  
-📌 **[View Project](https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/polyens/advancedleadsgeneration-ai)
-
-### **AI-Powered Search Engine**  
-📌 **Business Impact:** Reduced research time by **80%** for enterprises & universities.  
-🔹 **Tech Stack:** Python, LangChain, FAISS, Streamlit  
-📌 **[View Project](#) 
-
-### **AI Debugging Assistant for Developers**  
-📌 **Business Impact:** Cut debugging time by **40%**, improving developer efficiency.  
-🔹 **Tech Stack:** LangChain, OpenAI, FastAPI, VS Code Extension API  
-📌 **[View Project](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow)
-
----
-
-## 🏆 Hackathon Experience – AI for Business & Automation  
-🚀 **Participated in 9x international hackathons**, building AI solutions that automate **sales, research, and business processes.**  
-
-### 🏅 **IBM Granite Hackathon – AI for Lead Generation**  
-📌 **Impact:** AI system that increased **lead qualification accuracy by 30%**.  
-🔹 **Tech Stack:** Next.js, FastAPI, LangChain, IBM Watson AI  
-📌 **[Project Submission](https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/polyens/advancedleadsgeneration-ai) | [Certificate](#)**  
-
-### 🏅 **DeepSeek Hackathon – AI Debugging Assistant**  
-📌 **Impact:** Automated debugging and documentation, cutting time by **40%**.  
-🔹 **Tech Stack:** LangChain, OpenAI, FastAPI  
-📌 **[Project Submission](https://lablab.ai/event/fall-in-love-with-deepseek/dev-ai/devai-leveraging-ai-in-development-workflow) | [Certificate](#)**  
-
-### 🏅 **Replit Hackathon – AI Research Assistant**  
-📌 **Impact:** AI-powered research tool reduced **manual search time by 80%**.  
-🔹 **Tech Stack:** Python, LangChain, FAISS, Streamlit  
-📌 **[Project Submission](https://lablab.ai/event/replit-and-cursor-hackathon/byte-busters/aptimi-your-productivity-partner) | [Certificate](https://lablab.ai/u/@faraz_haider215/cm4wwyncr002k500gcm9a0uhi)**  
-
----
-
-## 📢 Work With Me – AI Solutions for Your Business  
-🚀 Need an **AI Expert** to build your next AI automation or chatbot? Let's talk!  
-
-📌 **3 Steps to Work With Me:**  
-1️⃣ **Discuss Your AI Needs** – Schedule a free 15-min consultation.  
-2️⃣ **Get a Custom AI Plan** – I’ll outline the best AI solutions for your business.  
-3️⃣ **Project Execution & Delivery** – Watch your AI-powered solution come to life.  
-
-📌 * [Email Me](mailto:farazmubeen902@gmail.com)**  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faraz6180&show_icons=true&theme=radical" alt="Faraz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faraz6180&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faraz6180&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraz6180&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faraz6180&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
 
-## 📬 Contact & Collaboration  
+## 📩 Let’s Work Together  
 
-I'm always excited to **collaborate on AI projects** that drive **real-world impact**. If you're looking for an **AI Engineer** to help with **AI automation, RAG solutions, or business AI applications**, let's connect!  
+I'm currently **open to internships, freelance, or part-time roles** in:  
+- AI/ML Engineering  
+- Automation with LLMs  
+- GenAI Product Development  
 
-- **LinkedIn:** [Faraz Mubeen](https://www.linkedin.com/in/fm61/)  
-- **Email:** [farazmubeen902@gmail.com](mailto:farazmubeen902@gmail.com)  
-- **Portfolio:** [GitHub Portfolio](https://github.com/Faraz6180)  
+🚀 **Why me?**  
+- Proven ability to deliver business value with AI  
+- Fast learner with hackathon-tested skills  
+- Solid track record in building & shipping working solutions
+
+### 📞 Reach Out  
+- 📧 Email: [farazmubeen902@gmail.com](mailto:farazmubeen902@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/fm61](https://www.linkedin.com/in/fm61/)  
+- 💼 Portfolio: [github.com/Faraz6180](https://github.com/Faraz6180)  
+- 🧠 Resume: [Request via Email or LinkedIn]
 
 ---
 
-## 🤝 Let's Build AI-Powered Solutions Together! 🚀  
-If you're looking for an **AI Engineer who delivers revenue-generating solutions**, let's talk.  
+## ✨ Let’s Build Something Powerful with AI  
+_"I'm not just building models – I'm solving problems that matter."_  
+Let’s talk if you need someone who delivers **business-ready AI products**.
+

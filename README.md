@@ -55,9 +55,10 @@ I'm an **AI/ML Engineer** with a proven track record of building production-grad
 - **Impact:** Improved student assignment completion by 25%
 - **Rating:** 4.8/5.0 student satisfaction
 
-### 🌍 **Top 12% Globally at UC Berkeley CALICO**
-- **Competition:** International computational linguistics challenge
-- **What This Proves:** I excel in NLP and language model applications
+### 🏆 **Top 12% at UC Berkeley CALICO (Competitive Programming)**
+- **Rank:** 96th out of 820 teams globally (1,816+ contestants, 48 countries)
+- **Role:** Team Leader | Solved 9/12 algorithmic problems under 3-hour time limit
+- **What This Proves:** Strong data structures/algorithms foundation for technical interviews
 
 ### 💰 **$150K AWS Activate Credits**
 - **Selected:** AWS Startup program for scaling cloud infrastructure

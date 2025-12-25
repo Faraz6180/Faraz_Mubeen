@@ -19,7 +19,7 @@
 I'm an **AI/ML Engineer** with a proven track record of building production-grade systems across multiple industries:
 
 ✅ **Shipped production AI systems** processing **50,000+ transactions daily** with **94% accuracy**  
-✅ **Won 17+ international AI hackathons** — I thrive under pressure and deliver fast  
+✅ **Participated 17+ international AI hackathons** — I thrive under pressure and deliver fast  
 ✅ **Published 115+ technical articles** — I translate complex AI into clear, actionable insights  
 ✅ **Selected by elite programs** — 1337 Ventures (Top 5%), AWS Activate ($150K), McKinsey Forward, Stanford  
 
@@ -31,7 +31,7 @@ I'm an **AI/ML Engineer** with a proven track record of building production-grad
 
 <div align="center">
 
-[![Intro Video](https://img.youtube.com/vi/fFO8nOOO21E/maxresdefault.jpg)](https://youtu.be/fFO8nOOO21E)
+[![Intro Video](https://img.youtube.com/vi/fFO8nOOO21E/0.jpg)]
 
 **▶️ [Watch My Introduction](https://youtu.be/fFO8nOOO21E)**
 
